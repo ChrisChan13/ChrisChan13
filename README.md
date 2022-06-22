@@ -1,4 +1,12 @@
-### Hi there 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisChan13&layout=compact&langs_count=10&title_color=fff&text_color=9f9f9f&bg_color=151515" alt="ChrisChan's Top Langs">
+
+### Hi there 👋 I'm Chris!
+
+![ChrisChan's Profile Views](https://komarev.com/ghpvc/?username=ChrisChan13)
+
+- 🔭 I’m currently working on myself for myself by myself...
+- 🌱 I’m currently learning about love...
+- 📫 How to reach me: ...
 
 <!--
 **ChrisChan13/ChrisChan13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +22,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![ChrisChan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChrisChan13&include_all_commits=true&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![ChrisChan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ChrisChan13&theme=dark&background=151515&border=FFFFFF&stroke=9F9F9F&ring=444444&fire=DADADA&currStreakNum=9F9F9F&currStreakLabel=FFFFFF)
