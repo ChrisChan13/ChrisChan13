@@ -2,7 +2,7 @@
 
 ### Hi there 👋 I'm Chris!
 
-![ChrisChan's Profile Views](https://komarev.com/ghpvc/?username=ChrisChan13)
+<img height="20px" src="https://komarev.com/ghpvc/?username=ChrisChan13" alt="ChrisChan's Profile Views">
 
 - 🔭 I’m currently working on myself for myself by myself...
 - 🌱 I’m currently learning about love...
