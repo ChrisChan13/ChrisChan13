@@ -1,4 +1,4 @@
-<img width="298px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisChan13&layout=compact&langs_count=10&title_color=fff&text_color=9f9f9f&bg_color=151515" alt="ChrisChan's Top Langs">
+<img height="188px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisChan13&layout=compact&langs_count=10&title_color=fff&text_color=9f9f9f&bg_color=151515" alt="ChrisChan's Top Langs">
 
 ### Hi there 👋 I'm Chris!
 
@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 -->
 
 <p>
-  <img width="49.7%" src="https://github-readme-stats.vercel.app/api?username=ChrisChan13&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="ChrisChan's GitHub stats">
-  <img width="49.7%" src="https://github-readme-streak-stats.herokuapp.com?user=ChrisChan13&theme=dark&background=151515&border=FFFFFF&stroke=9F9F9F&ring=444444&fire=DADADA&currStreakNum=9F9F9F&currStreakLabel=FFFFFF" alt="ChrisChan's GitHub Streak">
+  <img height="204px" src="https://github-readme-stats.vercel.app/api?username=ChrisChan13&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="ChrisChan's GitHub stats">
+  <img height="204px" src="https://github-readme-streak-stats.herokuapp.com?user=ChrisChan13&theme=dark&background=151515&border=FFFFFF&stroke=9F9F9F&ring=444444&fire=DADADA&currStreakNum=9F9F9F&currStreakLabel=FFFFFF" alt="ChrisChan's GitHub Streak">
 </p>
