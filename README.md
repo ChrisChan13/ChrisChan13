@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 
 <p>
   <img height="166" src="https://github-readme-stats.vercel.app/api?username=ChrisChan13&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="ChrisChan's GitHub stats">
-  <img height="166" src="https://github-readme-streak-stats.herokuapp.com?user=ChrisChan13&theme=dark&background=151515&border=FFFFFF&stroke=9F9F9F&ring=444444&fire=DADADA&currStreakNum=9F9F9F&currStreakLabel=FFFFFF" alt="ChrisChan's GitHub Streak">
+  <img height="166" align="right" src="https://github-readme-streak-stats.herokuapp.com?user=ChrisChan13&theme=dark&background=151515&border=FFFFFF&stroke=9F9F9F&ring=444444&fire=DADADA&currStreakNum=9F9F9F&currStreakLabel=FFFFFF" alt="ChrisChan's GitHub Streak">
 </p>
