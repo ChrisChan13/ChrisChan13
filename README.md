@@ -1,4 +1,4 @@
-<img height="188" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisChan13&layout=compact&langs_count=10&title_color=fff&text_color=9f9f9f&bg_color=151515" alt="ChrisChan's Top Langs">
+<img height="188" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisChan13&layout=compact&langs_count=8&title_color=fff&text_color=9f9f9f&bg_color=151515" alt="ChrisChan's Top Langs">
 <img align="left" height="188">
 
 ### Hi there 👋 I'm Chris!
